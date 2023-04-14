@@ -1,0 +1,12 @@
+{
+  "name": "Figma to Design Code",
+  "id": "1228583568869325370",
+  "api": "1.0.0",
+  "main": "main.js",
+  "ui": "ui.html",
+  "capabilities": [],
+  "editorType": [
+    "figma"
+  ]
+  
+}
